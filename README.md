@@ -7,7 +7,7 @@ laravel10
 # 手順
 1. `.env.example`を同じディレクトリ内でコピー
 2. コピーしたファイルの名前を`.env`に変更
-3. vscodeとかのターミナルで`docker compose --env-file ./php/src/.env up`
+3. vscodeとかのターミナルで`docker compose --env-file ./php/src/.env up -d`
 
 ## desktop を使う場合
 4. backend-containerのexecタブで`compose install`
