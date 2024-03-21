@@ -18,6 +18,11 @@ laravel10
 4. `docker compose exec backend-containe composer install`
 5. `docker compose exec backend-containe php artisan key:generate`
 
+# 参考にしたサイト
+[Docker+Nginx+MySQLでLaravelの開発環境構築](https://entreprogrammer.jp/laravel-nginx-docker/)
+[Laravel公式のNginxのconfを解説・設定変更する](https://entreprogrammer.jp/laravel-nginx-conf/)
+
+
 # 駄文
 docker-compose.ymlで`env_file`で指定しても何故かうまく動いてくれないので下記のコマンドで使う`.env`ファイルを指定させた
 
