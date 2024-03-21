@@ -17,6 +17,7 @@ laravel10
 ## コマンドラインを使う場合
 4. `docker compose exec backend-containe composer install`
 5. `docker compose exec backend-containe php artisan key:generate`
+6. `php artisan serve --host 0.0.0.0`
 
 # 参考にしたサイト
 [Docker+Nginx+MySQLでLaravelの開発環境構築](https://entreprogrammer.jp/laravel-nginx-docker/)
