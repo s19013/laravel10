@@ -23,8 +23,8 @@ db,pmaの環境変数はlaravelの.envファイルを参考することにした
 6. `php artisan serve --host 0.0.0.0`
 
 # 参考にしたサイト
-[Docker+Nginx+MySQLでLaravelの開発環境構築](https://entreprogrammer.jp/laravel-nginx-docker/)
-[Laravel公式のNginxのconfを解説・設定変更する](https://entreprogrammer.jp/laravel-nginx-conf/)
+* [Docker+Nginx+MySQLでLaravelの開発環境構築](https://entreprogrammer.jp/laravel-nginx-docker/)
+* [Laravel公式のNginxのconfを解説・設定変更する](https://entreprogrammer.jp/laravel-nginx-conf/)
 
 
 # 駄文
