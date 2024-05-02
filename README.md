@@ -15,6 +15,7 @@ db,pmaの環境変数はlaravelの.envファイルを参考することにした
 ## desktop を使う場合
 4. backend-containerのexecタブで`compose install`
 5. 続けて､`php artisan key:generate`
+6. `php artisan serve --host 0.0.0.0`
 
 
 ## コマンドラインを使う場合
